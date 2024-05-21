@@ -1,0 +1,27 @@
+.footer-main{
+    margin-top: 150px;
+}
+
+.footer-top{
+    padding-top: 5px;
+}
+
+hr {
+    border: none;
+    height: 20px;
+    width: 90%;
+    height: 50px;
+    margin-top: 0;
+    border-bottom: 1px solid #1f1209;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Adjust the shadow values here */
+    margin: -50px auto 10px;
+  }
+  
+
+  p{
+    font-size: smaller;
+  }
+
+.heading-txt{
+    color: #1f1209;
+}

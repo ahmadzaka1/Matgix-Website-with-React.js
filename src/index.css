@@ -1,0 +1,11 @@
+body {
+    font-family: 'Montserrat', sans-serif; /* Use Montserrat font */
+}
+
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif; /* Use Roboto font for headings */
+}
+
+p {
+    font-family: 'Fira Code', monospace; /* Use Fira Code font for paragraphs */
+}

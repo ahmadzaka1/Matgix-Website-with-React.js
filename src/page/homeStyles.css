@@ -1,0 +1,21 @@
+.imgCont {
+    width: 100%;
+    height: 558px;
+    position: relative;
+    display: inline-block;
+}
+
+.landing {
+    width: 100%; /* Adjust the width of the image */
+    height: 100vh; /* Maintain aspect ratio */
+}
+
+.image-text {
+    position: absolute;
+    bottom: 0; /* Position at the bottom of the image */
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%); /* Center horizontally */
+    color: #fff; /* Text color */
+    padding: 10px; /* Adjust padding as needed */
+    text-align: center;
+}

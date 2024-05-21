@@ -1,0 +1,33 @@
+.header {
+  background-image: linear-gradient(to right, #052c3d, #043549, #0d435c, #0b4563, #0d4466);
+    display: flex; /* Use flexbox to center align vertically */
+    flex-direction: column; /* Stack children vertically */
+    justify-content: flex-end; /* Align content to the bottom */
+    align-items: center; /* Center-align horizontally */
+    padding: 20px; /* Add padding for spacing */
+    height: 350px;
+  }
+  
+  
+  .header h1 {
+    font-size: 24px; /* Adjust the font size for the title */
+    color: white; /* Text color */
+  }
+  
+  .header p {
+    font-size: 16px; /* Adjust the font size for the text */
+    color: white; /* Text color */
+  }
+  
+  .header button {
+    background-color: rgb(192, 67, 50); /* Button background color */
+    color: white; /* Button text color */
+    border-radius: 100px;
+    cursor: pointer;
+  }
+
+.header button:hover {
+    background-color: rgb(201, 97, 84);
+    color: white;
+}
+  
